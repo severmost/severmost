@@ -1,0 +1,4 @@
+User-agent: *
+Host: severmost.kz
+Allow: /
+Sitemap: https://severmost.kz/sitemap.xml
